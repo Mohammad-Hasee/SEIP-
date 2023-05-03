@@ -1,0 +1,108 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+p{
+    text-decoration: none;
+}
+.two{
+    width: 15%;
+}
+.main{
+    width: 100%;
+}
+.arbi{
+    height: 640px;
+    width: 80%;
+    position: relative;
+    margin-left: 10%;
+}
+.a{
+    height: 295px;
+    width: 295px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+
+}
+.b{
+    height: 295px;
+    width:295px;
+    position: absolute;
+    bottom: 0px;
+    left: 307px;
+    top: 0px;
+}
+.c{
+    height: 295px;
+    width: 295px;
+    position: absolute;
+    bottom: 0px;
+    left: 614px;
+    top: 0px;
+}
+.d{
+    height: 295px;
+    width: 295px;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    top: 0px;
+   
+}
+.e{
+    height:275px;
+    width: 275px;
+    position: absolute;
+    bottom: 50px;
+    left: 0px;
+
+}
+.f{
+    height:275px;
+    width: 275px;
+    position: absolute;
+    bottom: 50px;
+    left: 307px;
+
+}
+.g{
+    height:275px;
+    width: 275px;
+    position: absolute;
+    bottom: 50px;
+    left: 614px;
+
+}
+.h{
+    height:275px;
+    width: 275px;
+    position: absolute;
+    bottom: 50px;
+    right: 0px;
+
+}
+#ww{
+    padding: 10px;
+}
+.tin{
+    height: 30px;
+    width: 275px;
+    bottom: 0px;
+}
+.char{
+    height: 15px;
+    width: 137px;
+    float: left;
+    bottom: 0px;
+    position: relative;
+}
+.pach{
+    height: 15px;
+    width: 137px;
+    overflow: hidden;
+    position: absolute;
+}
+#jog{
+    top: 10px;
+}
